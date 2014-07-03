@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" description="Home" url="~/default.aspx" >
+    <siteMapNode title="Recipes" description="Recipes" url="~/recipes.aspx" >
+    <siteMapNode title="Chat" description="Chat" url="~/chat.aspx" >
+    <siteMapNode title="Products" description="Products" url="~/order.aspx" >
+    <siteMapNode title="About Us" description="About Us" url="~/aboutus.aspx" >
+    <siteMapNode title="Sitemap" description="Sitemap" url="~/sitemap.aspx" >
+    <siteMapNode title="Registration" description="Registration" url="~/new_user.aspx" >
+      <siteMapNode title="Regisration Confirmation" description="Registration Confirmation" url="~/receipt.aspx" />
+    </siteMapNode>
+    </siteMapNode>
+    </siteMapNode>
+    </siteMapNode>
+    </siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

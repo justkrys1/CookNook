@@ -1,0 +1,5 @@
+E:\ASP\CookNookbyKrys\CookNook\CookNook\bin\CookNook.dll
+E:\ASP\CookNookbyKrys\CookNook\CookNook\bin\CookNook.pdb
+E:\ASP\CookNookbyKrys\CookNook\CookNook\obj\Release\CookNook.csprojResolveAssemblyReference.cache
+E:\ASP\CookNookbyKrys\CookNook\CookNook\obj\Release\CookNook.dll
+E:\ASP\CookNookbyKrys\CookNook\CookNook\obj\Release\CookNook.pdb

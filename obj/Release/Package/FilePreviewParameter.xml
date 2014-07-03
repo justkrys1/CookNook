@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CookNookbyKrys" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\ASP\\CookNookbyKrys\\CookNook\\CookNook\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\ASP\\CookNookbyKrys\\CookNook\\CookNook\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="RAGAN_w13ConnectionString-Web.config Connection String" description="RAGAN_w13ConnectionString Connection String used in web.config by the application to access the database." value="Data Source=134.39.173.35;Initial Catalog=RAGAN_w13;Persist Security Info=True;User ID=RAGAN_w13;Password=password" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\ASP\\CookNookbyKrys\\CookNook\\CookNook\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RAGAN_w13ConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="RAGAN_w13ConnectionString2-Web.config Connection String" description="RAGAN_w13ConnectionString2 Connection String used in web.config by the application to access the database." value="Data Source=134.39.173.35;Initial Catalog=RAGAN_w13;Persist Security Info=True;User ID=Ragan_w13;Password=password" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\ASP\\CookNookbyKrys\\CookNook\\CookNook\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RAGAN_w13ConnectionString2']/@connectionString" />
+  </parameter>
+</parameters>

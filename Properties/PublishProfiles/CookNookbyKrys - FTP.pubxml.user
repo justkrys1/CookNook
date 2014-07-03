@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAu8sbSUiVWUmDVf0I/6VqvAAAAAACAAAAAAAQZgAAAAEAACAAAADsCSsgqbSugX2AXyRzEtcaryfKIF3yXfMaxou5xPPCywAAAAAOgAAAAAIAACAAAAAk5fWu18xG0nn5+JwPCGovt517waWS+V+Gmz4zBfzaxoAAAAA6QMZC4XPjeiYEEMPDPefFdwMCQlKpgV8U8TikBKVY/+gaPfRZRlxD9Bs09fjkhxRPKAi6rKqmAjAxJ2bQObwV/FapVPgYQPlzJjcvKddxwdxeNy+LOlcyzRiqJJNuG/1Xolumw8jfFuo7FcBQGJHbTffFKARPkoWo4WHxGJsVZUAAAABRoy5lW9DzAoi2PmI8MZ5uF6x5Pyyul+W4wibY3K0oIQp5tQXyIEW+ieKZ874HeZ7TnHT30q+j2KX8CYVtvYw4</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-bay-003.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="aboutus.html">
+      <publishTime>02/23/2014 10:39:26</publishTime>
+    </File>
+    <File Include="ads.xml">
+      <publishTime>02/22/2014 11:26:28</publishTime>
+    </File>
+    <File Include="bin/CookNook.dll">
+      <publishTime>03/07/2014 08:43:38</publishTime>
+    </File>
+    <File Include="chat.html">
+      <publishTime>02/23/2014 10:42:22</publishTime>
+    </File>
+    <File Include="css/home.css">
+      <publishTime>03/07/2014 08:33:56</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>02/23/2014 11:57:40</publishTime>
+    </File>
+    <File Include="images/ad1.jpg">
+      <publishTime>02/22/2014 10:55:22</publishTime>
+    </File>
+    <File Include="images/ad2.jpg">
+      <publishTime>02/21/2014 05:30:06</publishTime>
+    </File>
+    <File Include="images/ad3.jpg">
+      <publishTime>02/22/2014 10:57:54</publishTime>
+    </File>
+    <File Include="images/ad4.jpg">
+      <publishTime>02/22/2014 11:16:10</publishTime>
+    </File>
+    <File Include="images/cakeleveler.jpg">
+      <publishTime>02/26/2014 08:56:18</publishTime>
+    </File>
+    <File Include="images/canopener.jpg">
+      <publishTime>02/26/2014 08:55:36</publishTime>
+    </File>
+    <File Include="images/cheesecloth.jpg">
+      <publishTime>02/26/2014 08:56:50</publishTime>
+    </File>
+    <File Include="images/corkscrew.jpg">
+      <publishTime>02/26/2014 08:51:58</publishTime>
+    </File>
+    <File Include="images/cuttingboard.jpg">
+      <publishTime>02/26/2014 09:00:56</publishTime>
+    </File>
+    <File Include="images/garlicpress.jpg">
+      <publishTime>02/26/2014 09:01:08</publishTime>
+    </File>
+    <File Include="images/home1.jpg">
+      <publishTime>01/24/2014 11:19:54</publishTime>
+    </File>
+    <File Include="images/home2.jpg">
+      <publishTime>01/24/2014 11:29:32</publishTime>
+    </File>
+    <File Include="images/home3.jpg">
+      <publishTime>01/24/2014 11:30:32</publishTime>
+    </File>
+    <File Include="images/logo.jpg">
+      <publishTime>01/23/2014 09:48:02</publishTime>
+    </File>
+    <File Include="images/measuringcupset.jpg">
+      <publishTime>02/26/2014 09:01:20</publishTime>
+    </File>
+    <File Include="images/measuringspoonset.jpg">
+      <publishTime>02/26/2014 09:01:32</publishTime>
+    </File>
+    <File Include="images/paringknife.jpg">
+      <publishTime>02/26/2014 09:01:36</publishTime>
+    </File>
+    <File Include="images/spatula.jpg">
+      <publishTime>02/26/2014 09:02:24</publishTime>
+    </File>
+    <File Include="images/springformpanjpg.jpg">
+      <publishTime>02/26/2014 09:01:44</publishTime>
+    </File>
+    <File Include="images/whisk.jpg">
+      <publishTime>02/26/2014 09:01:40</publishTime>
+    </File>
+    <File Include="images/woodenspoon.jpg">
+      <publishTime>02/26/2014 09:01:52</publishTime>
+    </File>
+    <File Include="new_user.aspx">
+      <publishTime>02/23/2014 11:32:04</publishTime>
+    </File>
+    <File Include="order.aspx">
+      <publishTime>03/07/2014 08:26:28</publishTime>
+    </File>
+    <File Include="products.html">
+      <publishTime>02/23/2014 12:09:38</publishTime>
+    </File>
+    <File Include="receipt.aspx">
+      <publishTime>02/23/2014 12:25:22</publishTime>
+    </File>
+    <File Include="recipes.html">
+      <publishTime>02/21/2014 07:30:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/07/2014 08:43:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
